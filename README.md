@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Arham 👋
 
-<!--
-**ArhamAdeem/ArhamAdeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE Student @ Amity University Lucknow (2027)
+CGPA: 8.56 | Java | DSA | Web Development
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Java, JavaScript, HTML, CSS
+- **CS Fundamentals:** Data Structures, Algorithms, OOP
+- **Tools:** Git, GitHub, VS Code
+- **Learning:** SQL, Python, Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 DSA Progress
+- 23+ problems solved on LeetCode (Java)
+- Focus: Arrays, Strings, Binary Search, Hash Tables
+- Daily practice — targeting 100+ by July 2025
+
+## 🚀 Currently
+- Completing Data Analytics coursework
+- Building projects to strengthen my portfolio
+- Open to Software Engineering / Data Analytics internships
+
+## 📫 Connect
+- LinkedIn: linkedin.com/in/arham-adeem
+- Email: adeemarham123@gmail.com
