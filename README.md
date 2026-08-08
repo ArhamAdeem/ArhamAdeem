@@ -1,7 +1,7 @@
 # Hi, I'm Arham 👋
 
 B.Tech CSE Student @ Amity University Lucknow (2027)  
-CGPA: 8.56 | Java | DSA | Python | AI/ML | Web Development
+CGPA: 8.49 | Java | DSA | Python | AI/ML | Web Development
 
 ## 🔧 Tech Stack
 
